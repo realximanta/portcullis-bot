@@ -11,9 +11,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-ff69b4?style=for-the-badge)](https://github.com/)
 
-[![GitHub stars](https://img.shields.io/github/stars/USER/portcullis-bot?style=flat-square)](https://github.com/USER/portcullis-bot/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/USER/portcullis-bot?style=flat-square)](https://github.com/USER/portcullis-bot/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/USER/portcullis-bot?style=flat-square)](https://github.com/USER/portcullis-bot/issues)
+[![GitHub stars](https://img.shields.io/github/stars/realximanta/portcullis-bot?style=flat-square)](https://github.com/realximanta/portcullis-bot/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/realximanta/portcullis-bot?style=flat-square)](https://github.com/realximanta/portcullis-bot/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/realximanta/portcullis-bot?style=flat-square)](https://github.com/realximanta/portcullis-bot/issues)
 
 </div>
 
@@ -57,7 +57,7 @@ flowchart LR
 ## 🚀 Quick start
 
 ```bash
-git clone https://github.com/USER/portcullis-bot.git
+git clone https://github.com/realximanta/portcullis-bot.git
 cd portcullis-bot
 pip install -r requirements.txt
 BOT_TOKEN=xxx TARGET_CHAT_ID=-1001234567890 GATED_CHAT_IDS=-1009876543210 python bot.py
