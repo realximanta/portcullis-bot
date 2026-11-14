@@ -11,10 +11,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-ff69b4?style=for-the-badge)](https://github.com/)
 
-[![GitHub stars](https://img.shields.io/github/stars/realximanta/portcullis-bot?style=flat-square)](https://github.com/realximanta/portcullis-bot/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/realximanta/portcullis-bot?style=flat-square)](https://github.com/realximanta/portcullis-bot/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/realximanta/portcullis-bot?style=flat-square)](https://github.com/realximanta/portcullis-bot/issues)
-
 </div>
 
 ---
